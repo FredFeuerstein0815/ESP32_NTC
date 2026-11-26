@@ -16,7 +16,7 @@ void sensorTask(void *pvParameters) {
       vTaskDelay(pdMS_TO_TICKS(2));
     }
     int mittelwert = summe / NTC_SAMPLES;
-    float temperatur = map(mittelwert, 2250, 3461, 1, 23);
+    float temperatur = map(mittelwert, 2250, 3461, 1, 23);  // grobe Schätzung der Temperatur
     zustand = (mittelwert < NTC_SCHWELLE);
     Serial.println(F("---------------------------"));
     Serial.print(F("NTC Mittelwert: "));
