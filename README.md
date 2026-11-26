@@ -10,3 +10,14 @@ Heizung ist an
 
 NTC:        100 kOhm bei 25 °C  
 Widerstand: 330 kOhm
+
+Bzw.:
+
+Temperatur: 19.52 °C  
+Luftdruck: 985.66 hPa  
+Luchtfeuchtigkeit: 55.40 %  
+  
+NTC Mittelwert: 2676  
+Geschätzte Temperatur: 19.00 °C  
+Warm genug  
+Heizung ist aus  
