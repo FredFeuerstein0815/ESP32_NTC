@@ -7,5 +7,5 @@ NTC Mittelwert: 2265
 Zu kalt  
 Heizung ist an  
 
-NTC:        100 kOhm bei 25 °C
+NTC:        100 kOhm bei 25 °C  
 Widerstand: 330 kOhm
