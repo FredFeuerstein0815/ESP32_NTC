@@ -1,6 +1,6 @@
 #define HEIZUNG_PIN      16
 #define NTC_PIN          34
-#define NTC_SCHWELLE     2450     // // 2200 = 2 °C, 2554 = 7 °C, 3266-3300 = Raumtemperatur ca. 22 °C
+#define NTC_SCHWELLE     2450     // 1750-1800 = 1-2 °C, 3000-3100 = Handwarm
 #define NTC_SAMPLES      5
 #define NTC_INTERVALL_MS 60000    // Messung alle 60 Sekunden = 1 Minute
 
