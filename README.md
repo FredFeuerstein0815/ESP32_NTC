@@ -1,7 +1,7 @@
 Schaltet einen GPIO in Abhängigkeit eines NTCs.  
 Das zweite Script misst zum Vergleich noch einen BME280 aus.  
 Der Wert des NTCs wird durch fünf Messungen gemittelt.  
-Auf der seriellen Konsole wirde der Wert ausgegeben, z.B.:  
+Auf der seriellen Konsole werden die Werte ausgegeben, z.B.:  
 
 NTC Mittelwert: 2265  
 1.00 °C  
