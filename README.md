@@ -15,7 +15,7 @@ Bzw.:
 
 Temperatur: 19.52 °C  
 Luftdruck: 985.66 hPa  
-Luchtfeuchtigkeit: 55.40 %  
+Luftfeuchtigkeit: 55.40 %  
   
 NTC Mittelwert: 2676  
 Geschätzte Temperatur: 19.00 °C  
