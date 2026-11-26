@@ -32,7 +32,7 @@ void bmeTask(void *pvParameters) {
         } else {
             Serial.println("BME280 nicht verfügbar");
         }
-        Serial.printf("\n---------- BME280 -------------\nTemperatur: %.2f °C\nLuftdruck: %.2f hPa\nLuchtfeuchtigkeit: %.2f %%\n",
+        Serial.printf("\n---------- BME280 -------------\nTemperatur: %.2f °C\nLuftdruck: %.2f hPa\nLuftfeuchtigkeit: %.2f %%\n",
                       global_temp, global_druck, global_feuchte);
         Serial.println("-------------------------------");
         Serial.println("\n");
